@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::StatUpgradeObject
   upgradeName: Health Up
   description: 
-  upgradeType: 1
+  upgradeIcon: {fileID: 0}
+  statType: 1
   amount: 0

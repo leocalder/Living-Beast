@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::StatUpgradeObject
   upgradeName: Eat Charge Speed Up
   description: 
-  upgradeType: 4
+  upgradeIcon: {fileID: 0}
+  statType: 4
   amount: 0

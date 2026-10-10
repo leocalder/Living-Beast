@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::StatUpgradeObject
   upgradeName: Eat Cooldown Down
   description: 
-  upgradeType: 5
+  upgradeIcon: {fileID: 0}
+  statType: 5
   amount: 0

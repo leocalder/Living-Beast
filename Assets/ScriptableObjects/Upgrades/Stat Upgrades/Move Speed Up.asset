@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::StatUpgradeObject
   upgradeName: Move Speed Up
   description: 
-  upgradeType: 2
+  upgradeIcon: {fileID: 0}
+  statType: 2
   amount: 0

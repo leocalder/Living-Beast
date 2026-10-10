@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::StatUpgradeObject
   upgradeName: Eat Size Up
   description: 
-  upgradeType: 3
+  upgradeIcon: {fileID: 0}
+  statType: 3
   amount: 0
